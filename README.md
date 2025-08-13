@@ -30,3 +30,5 @@ Specifications
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: 
 
 <img width="858" height="602" alt="data-architecture drawio" src="https://github.com/user-attachments/assets/199e1ee6-d4a1-42c3-a924-e02f7ec0b7b6" />
+
+For more Documentations you can check the Docs Folder. 
